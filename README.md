@@ -46,3 +46,6 @@ htmlToDraft('<hr/>', (nodeName, node) => {
 
 
 **Take Care:** Plz not use version `1.2.0` it has build issues.
+
+# Fork info
+This repo has been forked because we needed to add [this](https://github.com/geosolutions-it/html-to-draftjs/commit/17058e0068d6627fd632c5bd3f2e4388ee35c212) fix
